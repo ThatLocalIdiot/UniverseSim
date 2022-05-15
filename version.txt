@@ -1,2 +1,3 @@
 v0 - Started Project. i mean, how hard can it be?
 v0.0.1 - Humble Start. Got basic idea down on how everything is going to work, made matter down to the smallest portions that are proven (i think)
+v0.0.2 - Testing out randomness. Added Random thingy to generate 10 things for a 3d space, and just as I type this I realize that what I have isn't how 3d spaces work. I have just what thing in each x, y, and z index. Meaning it really isn't 3d. Also need to figure out how to generate a list of all the things nearby to something, and decide what to do somehow.
