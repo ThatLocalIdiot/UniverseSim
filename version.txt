@@ -1,1 +1,2 @@
 v0 - Started Project. i mean, how hard can it be?
+v0.0.1 - Humble Start. Got basic idea down on how everything is going to work, made matter down to the smallest portions that are proven (i think)
